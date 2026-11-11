@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 BlueMart Retail Analysis
+# 🛒 BlueMart Retail Sales Analysis
 
 **Sales, profit and inventory analysis of a UAE retail chain: 641,798 transactions, 50 stores, 200 products, 5 channels.**
 
