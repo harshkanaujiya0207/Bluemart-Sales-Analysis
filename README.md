@@ -31,7 +31,7 @@ Every step is written in plain, simple code with a short written **Answer** unde
 
 A one-page interactive dashboard built from the same analysis  with four tabs (Overview, Products, Stores, Inventory) and filters for year, city, category and channel.
 
-**👉 Open the dashboard [`dashboard/index.html`](dashboard/index.html) in any browser.
+**👉 Open the dashboard [View Live Interactive Dashboard](https://harshkanaujiya0207.github.io/Bluemart-Sales-Analysis/dashboard/) in any browser.
 
 ---
 
